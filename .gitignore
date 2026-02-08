@@ -1,0 +1,71 @@
+# ===== BLOQUEAR TODO =====
+*
+
+# ===== PERMITIR SOLO CONFIGS DESEADAS =====
+!fastfetch/
+!nvim/
+!kitty/
+!rofi/
+!hypr/
+!waybar/
+!mako/
+
+# ===== PERMITIR ARCHIVOS BASE =====
+!README.md
+!.gitignore
+
+# ===== BLOQUEOS EXPLÍCITOS (SEGURIDAD EXTRA) =====
+
+# Browsers
+mozilla/
+.firefox/
+.config/google-chrome/
+.config/chromium/
+
+# System / runtime
+.cache/
+.local/
+.local/share/
+.local/state/
+.local/bin/
+.config/systemd/
+.config/autostart/
+
+# App data
+pulse/
+dconf/
+goa-1.0/
+evolution/
+epiphany/
+VirtualBox/
+nautilus/
+ibus/
+mpv/
+pavucontrol.ini
+monitors.xml
+
+# Dev tools
+Code - OSS/
+Cursor/
+zed/
+
+# Desktop/system
+gtk-3.0/
+gtk-4.0/
+atuin/
+btop/
+fastfetch/state/
+fastfetch/cache/
+
+# Files
+*.log
+*.tmp
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+
