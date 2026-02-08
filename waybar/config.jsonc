@@ -176,7 +176,7 @@
     "custom/power": {
         "format" : "⏻",
 		    "tooltip": false,
-        "on-click": "~/.config/hypr/configs/waybar/scripts/power.sh",
+        "on-click": "~/.config/waybar/scripts/power.sh",
     },
     "custom/notifications": {
         "format": "",

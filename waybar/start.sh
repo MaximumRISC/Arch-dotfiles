@@ -1,6 +1,6 @@
 #!/bin/sh
 
-WAYBAR_CFG_DIR="$HOME/.config/hypr/configs/waybar"
+WAYBAR_CFG_DIR="$HOME/.config/waybar"
 
 sleep 0.1
 
