@@ -1,21 +1,3 @@
-# ===== BLOQUEAR TODO =====
-*
-
-# ===== PERMITIR SOLO CONFIGS DESEADAS =====
-!fastfetch/
-!nvim/
-!kitty/
-!rofi/
-!hypr/
-!waybar/
-!mako/
-
-# ===== PERMITIR ARCHIVOS BASE =====
-!README.md
-!.gitignore
-
-# ===== BLOQUEOS EXPLÍCITOS (SEGURIDAD EXTRA) =====
-
 # Browsers
 mozilla/
 .firefox/

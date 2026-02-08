@@ -1,0 +1,1 @@
+/home/risc/.config/hypr/configs/mako
