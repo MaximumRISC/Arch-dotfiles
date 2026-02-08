@@ -1,0 +1,25 @@
+2026-02-03 09:34:15.880 [info] [main] Log level: Info
+2026-02-03 09:34:15.884 [info] [main] Validating found git in: "/usr/bin/git"
+2026-02-03 09:34:15.903 [info] [main] Using git "2.53.0" from "/usr/bin/git"
+2026-02-03 09:34:15.903 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-03 09:34:15.905 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-03 09:34:16.115 [info] > git config --get remote.origin.url [3ms] 
+2026-02-03 09:34:16.611 [info] > git config --get remote.origin.url [4ms] 
+2026-02-03 09:34:16.611 [info] > git log --skip=0 --max-count=1 --pretty=format:%H [9ms] 
+2026-02-03 09:34:16.611 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:16.613 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms] 
+2026-02-03 09:34:16.613 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:17.231 [info] > git rev-parse --verify origin/main [372ms] 
+2026-02-03 09:34:17.231 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:17.262 [info] > git rev-parse --verify origin/master [27ms] 
+2026-02-03 09:34:17.262 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:17.294 [info] > git rev-parse --verify origin/develop [28ms] 
+2026-02-03 09:34:17.294 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:17.307 [info] > git branch -r [8ms] 
+2026-02-03 09:34:17.307 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:17.317 [info] > git config --get init.defaultBranch [5ms] 
+2026-02-03 09:34:19.289 [info] > git remote get-url --push origin [2ms] 
+2026-02-03 09:34:19.289 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-02-03 09:34:25.901 [info] > git config --global user.name [2ms] 
+2026-02-03 09:34:25.906 [info] > git config --global user.email [1ms] 
+2026-02-03 09:34:25.907 [info] [main] Stored git author name in global state:  <>

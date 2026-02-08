@@ -1,0 +1,32 @@
+2026-02-03 10:06:52.284 [info] Scheduling write operation
+2026-02-03 10:06:52.284 [info] Fetching MCP state from lease
+2026-02-03 10:06:52.285 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-03 10:06:52.285 [info] Clearing mcps directory {"mcpsPath":"/home/risc/.cursor/projects/tmp-1f147e80-3f8d-46bf-b3d5-c6f6800c01ad/mcps"}
+2026-02-03 10:06:52.295 [info] No resources to fetch, skipping fetchResourcesAsync entirely
+2026-02-03 10:06:52.295 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}
+2026-02-03 10:06:52.700 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-03 10:06:52.799 [info] Scheduling write operation
+2026-02-03 10:06:52.799 [info] Waiting for previous write to complete
+2026-02-03 10:06:52.800 [info] Fetching MCP state from lease
+2026-02-03 10:06:52.801 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-03 10:06:52.801 [info] Clearing mcps directory {"mcpsPath":"/home/risc/.cursor/projects/tmp-1f147e80-3f8d-46bf-b3d5-c6f6800c01ad/mcps"}
+2026-02-03 10:06:52.801 [info] No resources to fetch, skipping fetchResourcesAsync entirely
+2026-02-03 10:06:52.801 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}
+2026-02-03 10:06:52.832 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-03 10:06:52.832 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-03 10:06:52.902 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-03 10:06:53.001 [info] Scheduling write operation
+2026-02-03 10:06:53.001 [info] Waiting for previous write to complete
+2026-02-03 10:06:53.002 [info] Fetching MCP state from lease
+2026-02-03 10:06:53.063 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-03 10:06:53.063 [info] Clearing mcps directory {"mcpsPath":"/home/risc/.cursor/projects/tmp-1f147e80-3f8d-46bf-b3d5-c6f6800c01ad/mcps"}
+2026-02-03 10:06:53.063 [info] No resources to fetch, skipping fetchResourcesAsync entirely
+2026-02-03 10:06:53.063 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}
+2026-02-03 10:06:53.132 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-03 10:06:53.232 [info] Scheduling write operation
+2026-02-03 10:06:53.232 [info] Waiting for previous write to complete
+2026-02-03 10:06:53.233 [info] Fetching MCP state from lease
+2026-02-03 10:06:53.241 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-03 10:06:53.241 [info] Clearing mcps directory {"mcpsPath":"/home/risc/.cursor/projects/tmp-1f147e80-3f8d-46bf-b3d5-c6f6800c01ad/mcps"}
+2026-02-03 10:06:53.242 [info] No resources to fetch, skipping fetchResourcesAsync entirely
+2026-02-03 10:06:53.242 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}

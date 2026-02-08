@@ -1,0 +1,193 @@
+2026-02-03 09:57:01.011 [info] Extension host with pid 73345 started
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-03 09:57:01.011 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-03 09:57:01.011 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.011 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-03 09:57:01.011 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.011 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/risc
+2026-02-03 09:57:01.011 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-03 09:57:01.011 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2026-02-03 09:57:01.068 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-03 09:57:01.107 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent, startup: true, activationEvent: '*'
+2026-02-03 09:57:01.290 [info] ExtensionService#_doActivateExtension anysphere.cursor-polyfills-remote, startup: true, activationEvent: '*'
+2026-02-03 09:57:01.307 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-02-03 09:57:01.321 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-02-03 09:57:01.367 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-02-03 09:57:01.400 [info] Extension host with pid 73414 started
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-03 09:57:01.400 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-03 09:57:01.400 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.400 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-03 09:57:01.400 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.400 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/risc
+2026-02-03 09:57:01.400 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-03 09:57:01.400 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2026-02-03 09:57:01.406 [info] Eager extensions activated
+2026-02-03 09:57:01.407 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.444 [info] Eager extensions activated
+2026-02-03 09:57:01.450 [info] Extension host with pid 73415 started
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-03 09:57:01.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-03 09:57:01.450 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.450 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-03 09:57:01.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:57:01.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/risc
+2026-02-03 09:57:01.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-03 09:57:01.450 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2026-02-03 09:57:01.464 [info] ExtensionService#_doActivateExtension anysphere.cursor-android-emulator-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.469 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2026-02-03 09:57:01.473 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.479 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.665 [info] ExtensionService#_doActivateExtension anysphere.cursor-commits, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.670 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.801 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.814 [info] Eager extensions activated
+2026-02-03 09:57:01.851 [info] ExtensionService#_doActivateExtension anysphere.cursor-ios-simulator-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:01.938 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:02.190 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:02.251 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:57:02.252 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:24.090 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-03 09:58:24.092 [info] Extension host with pid 73415 exiting with code 0
+2026-02-03 09:58:24.092 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-03 09:58:24.093 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-03 09:58:24.094 [info] Extension host with pid 73414 exiting with code 0
+2026-02-03 09:58:24.108 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3270)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3409)
+	at Server.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-agent/dist/main.js:2:13982)
+	at Object.onceWrapper (node:events:633:28)
+	at Server.emit (node:events:519:28)
+	at emitCloseNT (node:net:2419:8)
+	at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+2026-02-03 09:58:26.889 [info] Extension host with pid 82436 started
+2026-02-03 09:58:26.889 [info] Skipping acquiring lock for /home/risc/.config/Cursor/User/workspaceStorage/71d0efe08dcb20c59dfa452c68c82b66.
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-03 09:58:26.889 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-03 09:58:26.889 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:26.889 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-03 09:58:26.889 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:26.889 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/risc
+2026-02-03 09:58:26.889 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-03 09:58:26.889 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2026-02-03 09:58:26.889 [info] ExtHostSearch [cursorIgnore] internal fileSearch start reason=cursorIgnoreCheck roots=1 include=**/.cursorignore maxResults=0 numThreads=(default) folderQueries=[{"cwd":"/home/risc/Codigo","disregardIgnoreFiles":false,"disregardParentIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false,"rgNoIgnore":false,"rgNoIgnoreParent":true,"rgNoIgnoreGlobal":true,"rgFollow":true}]
+2026-02-03 09:58:26.908 [info] ExtHostSearch /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg --files --hidden --case-sensitive --no-require-git -g '**/.cursorignore' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/.DS_Store' -g '!**/Thumbs.db' -g '!**/node_modules' -g '!**/bower_components' -g '!**/*.code-search' --no-ignore-parent --follow --threads '14' --no-config --no-ignore-global
+ - cwd: /home/risc/Codigo
+ - Sibling clauses: {}
+2026-02-03 09:58:26.908 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent, startup: true, activationEvent: '*'
+2026-02-03 09:58:27.086 [info] ExtensionService#_doActivateExtension anysphere.cursor-polyfills-remote, startup: true, activationEvent: '*'
+2026-02-03 09:58:27.104 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-02-03 09:58:27.109 [info] ExtHostSearch Search finished. Stats: {"cmdTime":206,"fileWalkTime":206,"directoriesWalked":0,"filesWalked":0,"cmdResultCount":0}
+2026-02-03 09:58:27.110 [info] ExtHostSearch [cursorIgnore] internal fileSearch done in 226ms limitHit=false failed=false resultCount=0 cmdTime=206 fileWalkTime=206 providerTime=(unknown)
+2026-02-03 09:58:27.128 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-02-03 09:58:27.149 [info] Extension host with pid 82458 started
+2026-02-03 09:58:27.149 [info] Skipping acquiring lock for /home/risc/.config/Cursor/User/workspaceStorage/71d0efe08dcb20c59dfa452c68c82b66.
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-03 09:58:27.149 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-03 09:58:27.149 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:27.149 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-03 09:58:27.149 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:27.149 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/risc
+2026-02-03 09:58:27.149 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-03 09:58:27.149 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2026-02-03 09:58:27.155 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2026-02-03 09:58:27.161 [info] Extension host with pid 82457 started
+2026-02-03 09:58:27.161 [info] Skipping acquiring lock for /home/risc/.config/Cursor/User/workspaceStorage/71d0efe08dcb20c59dfa452c68c82b66.
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-03 09:58:27.161 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-03 09:58:27.161 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:27.161 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-03 09:58:27.161 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-03 09:58:27.161 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/risc
+2026-02-03 09:58:27.161 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-03 09:58:27.161 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2026-02-03 09:58:27.168 [info] Eager extensions activated
+2026-02-03 09:58:27.170 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.177 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-02-03 09:58:27.264 [info] Eager extensions activated
+2026-02-03 09:58:27.282 [info] ExtensionService#_doActivateExtension anysphere.cursor-android-emulator-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.292 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.298 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.443 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.481 [info] ExtensionService#_doActivateExtension anysphere.cursor-commits, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.500 [info] Eager extensions activated
+2026-02-03 09:58:27.621 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.672 [info] ExtensionService#_doActivateExtension anysphere.cursor-ios-simulator-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:27.763 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:28.021 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:28.097 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:28.099 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 09:58:29.106 [info] Extension host with pid 73345 exiting with code 0
+2026-02-03 09:58:32.680 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2026-02-03 09:59:34.769 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-03 09:59:46.175 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-03 09:59:46.243 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-03 09:59:46.286 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-03 10:00:13.376 [info] ExtensionService#_doActivateExtension castrogusttavo.symbols, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 10:01:22.020 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 10:05:15.947 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 10:06:24.144 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-02-03 10:06:44.778 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-03 10:06:44.780 [info] Extension host with pid 82458 exiting with code 0
+2026-02-03 10:06:44.780 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-03 10:06:44.780 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-03 10:06:44.782 [info] Extension host with pid 82457 exiting with code 0
+2026-02-03 10:06:44.801 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3270)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3409)
+	at Server.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-agent/dist/main.js:2:13982)
+	at Object.onceWrapper (node:events:633:28)
+	at Server.emit (node:events:519:28)
+	at emitCloseNT (node:net:2419:8)
+	at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+2026-02-03 10:06:44.807 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3270)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3409)
+	at R.logOutputMessage (/usr/share/cursor/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:44947)
+	at R.info (/usr/share/cursor/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:44680)
+	at ChildProcess.<anonymous> (/usr/share/cursor/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:593746)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-02-03 10:06:49.798 [info] Extension host with pid 82436 exiting with code 0

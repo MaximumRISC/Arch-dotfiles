@@ -1,0 +1,37 @@
+2026-02-03 11:57:07.505 [info] [main] Log level: Info
+2026-02-03 11:57:07.512 [info] [main] Validating found git in: "/usr/bin/git"
+2026-02-03 11:57:07.533 [info] [main] Using git "2.53.0" from "/usr/bin/git"
+2026-02-03 11:57:07.533 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-03 11:57:07.546 [info] > git rev-parse --show-toplevel [4ms] (getRepositoryRoot)
+2026-02-03 11:57:07.553 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [2ms] 
+2026-02-03 11:57:07.566 [info] [Model][openRepository] Opened repository: /home/risc/.config/hypr
+2026-02-03 11:57:07.566 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-03 11:57:07.569 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-03 11:57:07.579 [info] > git config --get commit.template [5ms] 
+2026-02-03 11:57:08.728 [info] > git show --textconv :hyprland.conf [13ms]
+2026-02-03 11:57:08.728 [info] > git ls-files --stage -- hyprland.conf [7ms] 
+2026-02-03 11:57:08.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms] 
+2026-02-03 11:57:08.741 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/risc/.config/hypr/.git/refs/remotes/origin/main'
+2026-02-03 11:57:08.741 [info] > git cat-file -s adf36346faa06d228ff6df76a8f78f5e60d110e3 [8ms] 
+2026-02-03 11:57:08.742 [info] > git rev-parse refs/remotes/origin/main [1ms] 
+2026-02-03 11:57:08.755 [info] > git status -z -uall [8ms]
+2026-02-03 11:57:08.849 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [96ms] 
+2026-02-03 11:57:08.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [49ms] 
+2026-02-03 11:57:08.918 [info] > git config --get --local branch.main.vscode-merge-base [4ms] 
+2026-02-03 11:57:08.924 [info] > git config --get commit.template [30ms] 
+2026-02-03 11:57:08.929 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [5ms] 
+2026-02-03 11:57:08.993 [info] > git merge-base refs/heads/main refs/remotes/origin/main [59ms] 
+2026-02-03 11:57:09.009 [info] > git diff --name-status -z --diff-filter=ADMR 41e53da6a754af98e012d05345801bf6e84489bf...refs/remotes/origin/main [11ms] 
+2026-02-03 11:57:09.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms] 
+2026-02-03 11:57:09.016 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/risc/.config/hypr/.git/refs/remotes/origin/main'
+2026-02-03 11:57:09.017 [info] > git blame --root --incremental 41e53da6a754af98e012d05345801bf6e84489bf -- hyprland.conf [9ms] 
+2026-02-03 11:57:09.020 [info] > git rev-parse refs/remotes/origin/main [4ms] 
+2026-02-03 11:57:09.031 [info] > git status -z -uall [6ms]
+2026-02-03 11:57:09.032 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms] 
+2026-02-03 11:57:09.127 [info] > git check-ignore -v -z --stdin [3ms]
+2026-02-03 11:57:13.752 [info] > git show --textconv :hyprland.conf [4ms]
+2026-02-03 11:57:13.753 [info] > git ls-files --stage -- hyprland.conf [1ms] 
+2026-02-03 11:57:13.758 [info] > git cat-file -s adf36346faa06d228ff6df76a8f78f5e60d110e3 [1ms] 
+2026-02-03 11:57:17.533 [info] > git config --global user.name [1ms] 
+2026-02-03 11:57:17.539 [info] > git config --global user.email [1ms] 
+2026-02-03 11:57:17.539 [info] [main] Stored git author name in global state:  <>

@@ -1,0 +1,1 @@
+2026-02-03 09:58:30.668 [error] Failed to set sticky bit on /tmp/risc-cursor-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/risc-cursor-zsh'

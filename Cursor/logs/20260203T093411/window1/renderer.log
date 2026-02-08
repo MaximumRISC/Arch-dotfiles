@@ -1,0 +1,72 @@
+2026-02-03 09:34:13.829 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-02-03 09:34:13.829 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-02-03 09:34:13.832 [info] [CursorExtensionIsolationService] Extension isolation is disabled
+2026-02-03 09:34:13.832 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.832 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:13.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-03 09:34:14.422 [info] Started local extension host with pid 6906.
+2026-02-03 09:34:14.797 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-02-03 09:34:14.797 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-02-03 09:34:15.436 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/zsh
+2026-02-03 09:34:15.436 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/zsh
+2026-02-03 09:34:16.107 [error] [Extension Host] (node:6906) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-02-03 09:34:16.683 [info] [Debug] Registered command palette action: debug.getLayoutState
+2026-02-03 09:34:16.683 [info] [Debug] Registered command palette action: debug.simulateSidebarBug
+2026-02-03 09:34:16.683 [info] [Debug] Registered command palette action: debug.setSidebarPosition
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.toggleSyncMode
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.toggleAgentMode
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.testLayoutPersistence
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.classifyRecentConversations
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.logComposer
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2026-02-03 09:34:16.684 [info] [Debug] Registered command palette action: debug.resetThirdPartyExtensibilityNotification
+2026-02-03 09:34:16.685 [info] [Debug] Registered command palette action: debug.triggerThirdPartyExtensibilityNotification
+2026-02-03 09:34:16.695 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2026-02-03 09:34:16.708 [info] [Cursor Proclist Polling] Local collection disabled by config
+2026-02-03 09:34:17.966 [info] [perf] Render performance baseline is 17ms
+2026-02-03 09:34:19.712 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async CKs.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:35963:836) [unauthenticated] Error
+2026-02-03 09:34:19.738 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.availableModels (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async g2c.keepCppModelStateUpdated (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:36087:16499)
+    at async g2c.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:36097:1259) [unauthenticated] Error
+2026-02-03 09:34:19.738 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async hmc.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:34043:9023)
+    at async Object.fn (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11289:31842) [unauthenticated] Error
+2026-02-03 09:34:19.742 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async CKs.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:35963:836) [unauthenticated] Error
+2026-02-03 09:34:19.750 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async hmc.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:34043:9023)
+    at async vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:36122:66135 [unauthenticated] Error
+2026-02-03 09:34:19.773 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async hmc.performDefaultModelRequest (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:34043:13210) [unauthenticated] Error
+2026-02-03 09:34:19.926 [error] Error fetching user pricing info: [unauthenticated] Error
+2026-02-03 09:34:19.927 [error] Error fetching user privacy mode: [unauthenticated] Error
+2026-02-03 09:34:19.936 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:11431:34179)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:637:31933)
+    at async CKs.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorxHSDu4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:35963:836) [unauthenticated] Error
+2026-02-03 09:34:20.089 [info] [agent-layout] force_to_agent_layout became true, will switch to agent layout on next app startup
+2026-02-03 09:34:20.092 [info] [Cursor Proclist] Local collection enabled by dynamic config change
+2026-02-03 09:34:20.103 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2026-02-03 09:34:20.105 [info] [ShellExec] Created session a928802b-8c90-4e86-a671-682f78b0478a on LocalProcess host
