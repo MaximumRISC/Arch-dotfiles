@@ -11,6 +11,7 @@ This repository contains **only real configuration files (dotfiles)**.
 Only the following components are versioned:
 
 * `fastfetch` → system info
+* `ghostty` → terminal
 * `nvim` → Neovim config
 * `kitty` → terminal
 * `rofi` → launcher
@@ -25,6 +26,7 @@ Only the following components are versioned:
 ```txt
 Dotfiles/
 ├── fastfetch/
+├── ghostty/
 ├── nvim/
 ├── kitty/
 ├── rofi/
@@ -54,6 +56,7 @@ ln -s ~/Dotfiles/hypr ~/.config/hypr
 ln -s ~/Dotfiles/waybar ~/.config/waybar
 ln -s ~/Dotfiles/mako ~/.config/mako
 ln -s ~/Dotfiles/fastfetch ~/.config/fastfetch
+ln -s ~/Dotfiles/ghostty ~/.config/ghostty
 ```
 
 ---
@@ -86,7 +89,7 @@ This repo is designed for:
 ## 🧑‍💻 Author
 
 **Raul Santa Maria**
-Linux • Hyprland • Neovim • Developer
+Linux • Hyprland • Zed • Developer
 
 ---
 
