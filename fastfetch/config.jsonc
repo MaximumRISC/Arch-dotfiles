@@ -3,7 +3,7 @@
 
   "logo": {
     "type": "kitty",
-    "source": "/home/risc/Pictures/Fastfetch/hyprland.png",
+    "source": ".config/fastfetch/wallpaper/hyrpland.png",
     "height": 25,
     "width": 34,	
     "padding": {
