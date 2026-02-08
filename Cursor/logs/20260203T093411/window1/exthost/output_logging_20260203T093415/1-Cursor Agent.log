@@ -1,4 +1,0 @@
-Failed to start API proxy: No access token available. Please ensure you are logged in.
-Loaded 0 bubble-to-session mappings from persisted state
-[ClaudeSDKClient] Initial permissions: approvalMode=ask-every-time
-[ClaudeSDKClient] Permissions updated: approvalMode=allowlist

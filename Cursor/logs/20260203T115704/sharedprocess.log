@@ -1,7 +1,0 @@
-2026-02-03 11:57:06.647 [info] Getting extensions control
-2026-02-03 11:57:56.825 [info] Getting Manifest... sst-dev.opencode
-2026-02-03 11:57:57.453 [info] Installing extension: sst-dev.opencode {"isMachineScoped":false,"installPreReleaseVersion":false,"donotVerifySignature":true,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/risc/.cursor/extensions/extensions.json","path":"/home/risc/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"2.4.27","date":"2026-01-31T21:24:58.143Z","vscodeVersion":"1.105.1"}}
-2026-02-03 11:57:57.476 [info] Started downloading extension: sst-dev.opencode 0.0.13 file:///home/risc/.config/Cursor/CachedExtensionVSIXs/sst-dev.opencode-0.0.13-universal
-2026-02-03 11:57:58.055 [info] Extracted extension to file:///home/risc/.cursor/extensions/sst-dev.opencode-0.0.13-universal: sst-dev.opencode
-2026-02-03 11:57:58.059 [info] Renamed to /home/risc/.cursor/extensions/sst-dev.opencode-0.0.13-universal
-2026-02-03 11:57:58.070 [info] Extension installed successfully: sst-dev.opencode vscode-userdata:/home/risc/.cursor/extensions/extensions.json

@@ -1,4 +1,0 @@
-2026-02-03 09:44:21.409 [info] Scheduling write operation
-2026-02-03 09:44:21.409 [info] Fetching MCP state from lease
-2026-02-03 09:44:21.416 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
-2026-02-03 09:44:21.416 [info] Clearing mcps directory {"mcpsPath":"/home/risc/.cursor/projects/tmp-6a0aa72d-beb1-45f6-b384-f36a428c0051/mcps"}

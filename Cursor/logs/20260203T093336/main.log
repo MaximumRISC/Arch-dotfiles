@@ -1,6 +1,0 @@
-2026-02-03 09:33:36.963 [info] [storage] Running database optimization (VACUUM) - last run was 20487 days ago
-2026-02-03 09:33:37.069 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.4.27/015ec8741a4ed034e1ec7909b2a7759b2f91abc542aefb41bf03705122184e15/stable
-2026-02-03 09:33:37.069 [info] update#setState idle
-2026-02-03 09:33:37.174 [info] [storage] Database optimization (VACUUM) completed successfully
-2026-02-03 09:33:45.229 [info] Extension host with pid 6422 exited with code: 0, signal: unknown.
-2026-02-03 09:33:45.266 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 6393]: crashed with code 15 and reason 'killed'
